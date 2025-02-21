@@ -15,4 +15,4 @@ These are the languages ​​i use for:
 
 Pycalc is a basic calculator created using the python language. The calculator has a user interface.
 
-<a href="https://github.com/Lorydima/PyCalc">Repository Pycalc on GitHub</a>
+<a href="">Repository Pycalc on GitHub</a>
