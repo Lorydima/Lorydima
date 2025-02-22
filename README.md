@@ -1,18 +1,16 @@
-# Lorydima's README
-Welcome to my GitHub profile, I am Lorenzo and I am passionate about coding
+# 💫 About Me:
+Hi, I'm Lorydima (for coding LDM Dev) and I am passionate about coding.
 
-These are the languages ​​i use for:
+# 💻 The codes and frameworks I know:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Web**
-<br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lorydima&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lorydima&theme=dark&hide_border=false)<br/>
 
-**Software and app**
-<br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
-# My projects
-**Pycalc**
+# 📁 My Projects:
+### PyCalc
+PyCalc Pro is a calculator with basic math operations, advanced math operations and and a unit converter function for mass and length 
 
-Pycalc is a basic calculator created using the python language. The calculator has a user interface.
-
-<a href="">Repository Pycalc on GitHub</a>
+<a href="https://github.com/Lorydima/PyCalcPro">Repository Pycalc Pro on GitHub</a>
