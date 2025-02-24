@@ -16,6 +16,6 @@ My Favourite programming language is: **Python**
 # 📁 My Projects:
 ![Logo](https://github.com/user-attachments/assets/9905f510-c6a7-43ab-8a0b-8a0167b898f0) **PyCalc Pro**
 
-PyCalc Pro is a calculator with basic math operations, advanced math operations and and a unit converter function for mass and length 
+PyCalc Pro is a calculator with basic math operations, advanced math operations and a unit converter function for mass and length 
 
 <a href="https://github.com/Lorydima/PyCalcPro">Repository Pycalc Pro on GitHub</a>
