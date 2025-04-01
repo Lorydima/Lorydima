@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Lorydima (for coding my nickname is **LDM Dev**) and I am passionate about coding.
 
-I love programming software, mobile apps and websites
+I love programming software and websites
 
 My Favourite programming language is: **Python**
 
