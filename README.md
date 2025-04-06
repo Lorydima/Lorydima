@@ -18,15 +18,15 @@ My Favourite programming language is: **Python**
 
   PyCalc Pro is a calculator with basic math operations, advanced math operations and a unit converter function for mass and length 
 
-  <a href="https://github.com/Lorydima/PyCalcPro">Repository Pycalc Pro on GitHub</a>
+  <a href="https://github.com/Lorydima/PyCalcPro">Repository Pycalc Pro/a>
   
   <a href="https://lorydima.github.io/PyCalcPro/">PyCalc Pro Website</a>
 
 - **Mini Projects**
 
-  PyCalc Pro is a calculator with basic math operations, advanced math operations and a unit converter function for mass and length 
+  Mini Projects Developed by LDM Dev
 
-  <a href="https://github.com/Lorydima/PyCalcPro">Repository Pycalc Pro on GitHub</a>
+  <a href="https://github.com/Lorydima/MiniProjects">Repository Mini Projects</a>
 
 
 
