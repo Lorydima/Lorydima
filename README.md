@@ -1,11 +1,11 @@
 # 👤 About Me:
-👋 Hi, I'm Lorenzo — aka **LDM Dev**
+👋 Hi, I'm Lorenzo aka **LDM Dev**
 
 🎓 I'm a high school student with a strong passion for computer science.
 
 💻 I love experimenting with different programming languages and exploring how things work under the hood.
 
-🌐 I enjoy building websites and developing software — it's my favorite way to learn and create.
+🌐 I enjoy building websites and developing software it's my favorite way to learn and create.
 
 🚀 Whenever I have free time, I work on open-source projects and share them here on GitHub.
 
@@ -32,4 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Lorydima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Lorydima&theme=dark&hide_border=false)
 # 
+❗**Coming Soon: My Portfolio Website**❗
+#
+
 👇👇 **Check out my featured projects below!** 👇👇
