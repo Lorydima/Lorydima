@@ -24,7 +24,7 @@ For Programs Development:
 ![Tkinter](https://img.shields.io/badge/tkinter-%233570A9.svg?style=for-the-badge&logo=python&logoColor=white)
 
 # ⚙️ The tools and OS i use:
-![OS](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Windows%2011-blue?logo=windows&logoColor=white)
 ![Dev Tool](https://img.shields.io/badge/Dev%20Tool-VS%20Code-red?logo=visualstudiocode&logoColor=white)
 ![Icon](https://img.shields.io/badge/Icon-%20Inkscape-green?logo=microsoft&logoColor=white)
 
