@@ -7,7 +7,7 @@
 
 🌐 I enjoy building websites and developing software it's my favorite way to learn and create.
 
-🚀 Whenever I have free time, I work on source-avaible projects and share them here on GitHub.
+🚀 Whenever I have free time, I work on open-source and source-avaible projects and share them here on GitHub.
 
 # 💻 The codes and frameworks I know:
 
