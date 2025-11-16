@@ -31,8 +31,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lorydima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Lorydima&theme=dark&hide_border=false)
-# 
-❗**Coming Soon: My Portfolio Website**❗
 #
-
 👇👇 **Check out my featured projects below!** 👇👇
