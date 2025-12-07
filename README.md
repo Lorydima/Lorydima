@@ -27,6 +27,7 @@
 ![OS](https://img.shields.io/badge/OS-Windows%2011-blue?logo=windows&logoColor=white)
 ![Dev Tool](https://img.shields.io/badge/Dev%20Tool-VS%20Code-red?logo=visualstudiocode&logoColor=white)
 ![Icon](https://img.shields.io/badge/Icon-%20Inkscape-green?logo=microsoft&logoColor=white)
+![Linux Distro](https://img.shields.io/badge/Linux%20Distro-Ubuntu%20%26%20Zorin%20OS-blue?logo=linux)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lorydima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
