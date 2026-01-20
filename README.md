@@ -7,7 +7,7 @@
 
 🌐 I enjoy building websites and developing software it's my favorite way to learn and create.
 
-🚀 Whenever I have free time, I work on open-source and source-avaible projects and share them here on GitHub.
+🚀 Whenever I have free time, I work on open-source projects and share them here on GitHub.
 
 # 💻 The codes and frameworks I know:
 
@@ -21,7 +21,6 @@
 **For Software Development:**
 >
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Tkinter](https://img.shields.io/badge/tkinter-%233570A9.svg?style=for-the-badge&logo=python&logoColor=white)
 
 # ⚙️ The tools and OS i use:
 ![OS](https://img.shields.io/badge/OS-Windows%2011-blue?logo=windows&logoColor=white)
