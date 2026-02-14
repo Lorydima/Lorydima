@@ -24,7 +24,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-262626?style=for-the-badge&logo=python&logoColor=white)
 
-**Others**
+**Others:**
 >
 ![Scratch](https://img.shields.io/badge/Scratch-FF851B?style=for-the-badge&logo=scratch&logoColor=000000)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
