@@ -7,6 +7,8 @@
 
 🌐 I enjoy building websites and developing app for pc, it's my favorite way to learn and create.
 
+🤖 I'm passionate about AI, I'm very curious and fascinated by how they work
+
 🚀 Whenever I have free time, I work on open-source projects and share them here on GitHub.
 
 # 💻 The codes and frameworks I know:
