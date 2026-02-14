@@ -37,7 +37,7 @@
 ![Website Host](https://img.shields.io/badge/Website%20Host-GitHub%20Pages-28A745.svg?logo=github&logoColor=white)
 ![Docs](https://img.shields.io/badge/Project_Management-Notion-000000.svg?logo=notion&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop_Repository-GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
-![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
+![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
