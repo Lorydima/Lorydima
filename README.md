@@ -25,6 +25,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-262626?style=for-the-badge&logo=python&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-28A745?style=for-the-badge&logo=python&logoColor=white)
 
 **Others:**
 >
@@ -44,6 +45,8 @@
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
 ![GitHub Stats Fast](https://github-readme-stats-fast.vercel.app/api?username=Lorydima&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lorydima&theme=dark)
+
 
 #
-👇👇 **Check out my featured projects below!** 👇👇
+👇 **Check out my featured projects below!** 👇
