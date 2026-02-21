@@ -41,6 +41,7 @@
 ![Docs](https://img.shields.io/badge/Project_Management-Notion-000000.svg?logo=notion&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop_Repository-GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 ![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
+![AI API](https://img.shields.io/badge/AI_API_Key-Hugging_Face%20-0078D6.svg?)
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
