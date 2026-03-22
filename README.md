@@ -34,7 +34,7 @@
 
 # ⚙️ The tools and OS i use:
 ![OS](https://img.shields.io/badge/Main_OS-Windows%2011-0078D6.svg?logo=windows&logoColor=white)
-![Dev Tool](https://img.shields.io/badge/Dev%20Tool-VS%20Code-0078D7.svg?logo=visual-studio-code&logoColor=white)
+![Dev Tool](https://img.shields.io/badge/Dev%20Tool-VS%20Code_and_Antigravity-0078D7.svg?logo=visual-studio-code&logoColor=white)
 ![Icon](https://img.shields.io/badge/Icon-Inkscape-28A745.svg?logo=inkscape&logoColor=white)
 ![Linux Distro](https://img.shields.io/badge/Linux%20Distro-Ubuntu%20%26%20Zorin%20OS-E95420.svg?logo=ubuntu&logoColor=white)
 ![Website Host](https://img.shields.io/badge/Website%20Host-GitHub%20Pages-28A745.svg?logo=github&logoColor=white)
@@ -42,6 +42,7 @@
 ![Desktop](https://img.shields.io/badge/Desktop_Repository-GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 ![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
 ![AI API](https://img.shields.io/badge/AI_API_Key-Hugging_Face%20-0078D6.svg?)
+![VirtualBox](https://img.shields.io/badge/VM-Oracle%20VirtualBox-0078D6?logo=virtualbox&logoColor=white)
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
