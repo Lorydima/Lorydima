@@ -9,6 +9,8 @@
 
 🤖 I'm passionate about AI, I'm very curious and fascinated by how they work
 
+🛡️ I'm passionate about cybersecurity, and I'm deeply fascinated by how systems can be protected, attacked, and defended in the digital world.
+
 🚀 Whenever I have free time, I work on open-source projects and share them here on GitHub.
 
 # 💻 The codes and frameworks I know:
@@ -43,6 +45,9 @@
 ![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
 ![AI API](https://img.shields.io/badge/AI_API_Key-Hugging_Face%20-0078D6.svg?)
 ![VirtualBox](https://img.shields.io/badge/VM-Oracle%20VirtualBox-0078D6?logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white)
+![AI Offline](https://img.shields.io/badge/AI%20Offline-Ollama-000000?logo=ollama&logoColor=white)
+![AI Offline](https://img.shields.io/badge/AI%20Offline-LM%20Studio-4A90E2?logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
