@@ -43,17 +43,20 @@
 ![Docs](https://img.shields.io/badge/Project_Management-Notion-000000.svg?logo=notion&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop_Repository-GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 ![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
-![AI API](https://img.shields.io/badge/AI_API_Key-Hugging_Face%20-0078D6.svg?)
+![AI API](https://img.shields.io/badge/AI_API-Hugging%20Face%20%7C%20Gemini-0078D6?logo=google&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VM-Oracle%20VirtualBox-0078D6?logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white)
 ![AI Offline](https://img.shields.io/badge/AI%20Offline-Ollama-000000?logo=ollama&logoColor=white)
 ![AI Offline](https://img.shields.io/badge/AI%20Offline-LM%20Studio-4A90E2?logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
+![ML Model](https://img.shields.io/badge/ML%20Model-Teachable%20Machine-0078D6?logo=google&logoColor=white)
+
+# 🎓 Certifications
+[![Introduction to Modern AI](https://github.com/user-attachments/assets/3bf18658-4b36-45e8-a3a5-f30db8b037e4)](https://www.credly.com/badges/c526100b-3ecd-4f3a-b99a-e4e4c9195c23/public_url)
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
 ![GitHub Stats Fast](https://github-readme-stats-fast.vercel.app/api?username=Lorydima&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lorydima&theme=dark)
-
 
 #
 👇 **Check out my featured projects below!** 👇
