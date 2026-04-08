@@ -38,7 +38,7 @@
 ![OS](https://img.shields.io/badge/Main_OS-Windows%2011-0078D6.svg?logo=windows&logoColor=white)
 ![Dev Tool](https://img.shields.io/badge/Dev%20Tool-VS%20Code_and_Antigravity-0078D7.svg?logo=visual-studio-code&logoColor=white)
 ![Icon](https://img.shields.io/badge/Icon-Inkscape-28A745.svg?logo=inkscape&logoColor=white)
-![Linux Distro](https://img.shields.io/badge/Linux%20Distro-Ubuntu%20%26%20Zorin%20OS-E95420.svg?logo=ubuntu&logoColor=white)
+![Linux Distro](https://img.shields.io/badge/Linux%20Distro-Ubuntu%20OS-E95420.svg?logo=ubuntu&logoColor=white)
 ![Website Host](https://img.shields.io/badge/Website%20Host-GitHub%20Pages-28A745.svg?logo=github&logoColor=white)
 ![Docs](https://img.shields.io/badge/Project_Management-Notion-000000.svg?logo=notion&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop_Repository-GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
@@ -47,7 +47,7 @@
 ![VirtualBox](https://img.shields.io/badge/VM-Oracle%20VirtualBox-0078D6?logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white)
 ![AI Offline](https://img.shields.io/badge/AI%20Offline-Ollama-000000?logo=ollama&logoColor=white)
-![AI Offline](https://img.shields.io/badge/AI%20Offline-LM%20Studio-4A90E2?logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
+![AI Offline](https://img.shields.io/badge/AI%20Offline-LM%20Studio-4A90E2)
 ![ML Model](https://img.shields.io/badge/ML%20Model-Teachable%20Machine-0078D6?logo=google&logoColor=white)
 
 # 🎓 Certifications
