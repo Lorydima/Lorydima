@@ -51,7 +51,16 @@
 ![ML Model](https://img.shields.io/badge/ML%20Model-Teachable%20Machine-0078D6?logo=google&logoColor=white)
 
 # 🎓 Certifications
-[![Introduction to Modern AI](https://github.com/user-attachments/assets/3bf18658-4b36-45e8-a3a5-f30db8b037e4)](https://www.credly.com/badges/c526100b-3ecd-4f3a-b99a-e4e4c9195c23/public_url)
+
+<p align="left">
+  <a href="https://www.credly.com/badges/c526100b-3ecd-4f3a-b99a-e4e4c9195c23/public_url">
+    <img src="https://github.com/user-attachments/assets/3bf18658-4b36-45e8-a3a5-f30db8b037e4" width="200"/>
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/a321584f-2835-4666-b896-15831a011038/badges/23595842">
+    <img src="https://github.com/user-attachments/assets/b2061376-80b3-4de1-8c54-491619a95e22" width="220"/>
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
