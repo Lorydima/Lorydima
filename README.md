@@ -55,9 +55,12 @@
   <a href="https://www.credly.com/badges/c526100b-3ecd-4f3a-b99a-e4e4c9195c23/public_url">
     <img src="https://github.com/user-attachments/assets/3bf18658-4b36-45e8-a3a5-f30db8b037e4" width="200"/>
   </a>
-  
+
   <a href="https://www.skills.google/public_profiles/a321584f-2835-4666-b896-15831a011038/badges/23595842">
     <img src="https://github.com/user-attachments/assets/b2061376-80b3-4de1-8c54-491619a95e22" width="220"/>
+  </a>
+
+  <img src="https://github.com/user-attachments/assets/6983177e-fa3e-4d06-8c04-108c647e6cd4" width="550"/>
   </a>
 </p>
 
