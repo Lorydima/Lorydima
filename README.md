@@ -48,7 +48,7 @@
 ![AI Offline](https://img.shields.io/badge/AI%20Offline-LM%20Studio-4A90E2)
 ![ML Model](https://img.shields.io/badge/ML%20Model-Teachable%20Machine-0078D6?logo=google&logoColor=white)
 ![AI Skills](https://img.shields.io/badge/AI%20Skills-Claude%20AI%20%7C%20Codex-0078D6?logo=artificial-intelligence&logoColor=white)
-
+![Automation](https://img.shields.io/badge/Automation-n8n-FF6D5A?logo=n8n&logoColor=white)
 # 🎓 Certifications
 
 <p align="left">
