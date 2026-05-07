@@ -60,7 +60,7 @@
     <img src="https://github.com/user-attachments/assets/b2061376-80b3-4de1-8c54-491619a95e22" width="220"/>
   </a>
 
-  <img src="https://github.com/user-attachments/assets/6983177e-fa3e-4d06-8c04-108c647e6cd4" width="550"/>
+  <img src="https://github.com/user-attachments/assets/8d435f5a-faf9-4fce-90bc-6c772c16b466" width="550"/>
   </a>
 </p>
 
