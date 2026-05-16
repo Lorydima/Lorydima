@@ -5,7 +5,7 @@
 
 💻 I love experimenting with different programming languages and exploring how things work under the hood.
 
-🌐 I enjoy building websites and developing app for pc, it's my favorite way to learn and create.
+📦 I enjoy building websites and developing app for pc, it's my favorite way to learn and create.
 
 🤖 I'm passionate about AI, I'm very curious and fascinated by how they work
 
