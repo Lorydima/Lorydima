@@ -38,13 +38,13 @@
 
 # ⚙️ The tools and OS i use:
 ![OS](https://img.shields.io/badge/Main_OS-Windows%2011-0078D6.svg?logo=windows&logoColor=white)
+![Coding OS](https://img.shields.io/badge/Coding_OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Dev Tool](https://img.shields.io/badge/IDE-VS%20Code_and_Antigravity-0078D7.svg?logo=visual-studio-code&logoColor=white)
 ![Icon](https://img.shields.io/badge/Icon-Inkscape-28A745.svg?logo=inkscape&logoColor=white)
 ![Website Host](https://img.shields.io/badge/Website%20Host-GitHub%20Pages-28A745.svg?logo=github&logoColor=white)
 ![Docs](https://img.shields.io/badge/Project_Management-Notion-000000.svg?logo=notion&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop_Repository-GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 ![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-GitHub%20Copilot%20and%20Gemini-FF4136.svg?logo=openai&logoColor=white)
-![AI API](https://img.shields.io/badge/AI_API-Hugging%20Face%20%7C%20Gemini-0078D6?logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=white)
 ![AI Offline](https://img.shields.io/badge/AI%20Offline-Ollama-000000?logo=ollama&logoColor=white)
 ![ML Model](https://img.shields.io/badge/ML%20Model-Teachable%20Machine-0078D6?logo=google&logoColor=white)
@@ -59,6 +59,10 @@
 
   <a href="https://www.skills.google/public_profiles/a321584f-2835-4666-b896-15831a011038/badges/23595842">
     <img src="https://github.com/user-attachments/assets/b2061376-80b3-4de1-8c54-491619a95e22" width="220"/>
+  </a>
+
+  <a href="https://verify.skilljar.com/c/3dp2v9gzkduk">
+    <img src="https://github.com/user-attachments/assets/ab61a8ef-aff1-4f83-87d6-4444f152e5f5" width="270"/>
   </a>
 
   <img src="https://github.com/user-attachments/assets/8d435f5a-faf9-4fce-90bc-6c772c16b466" width="550"/>
