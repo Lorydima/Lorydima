@@ -47,28 +47,11 @@
 ![AI for Coding](https://img.shields.io/badge/AI%20for%20Coding_Support-OpenCode%20and%20Gemini-0078D6.svg?logo=openai&logoColor=white)
 ![AI Skills](https://img.shields.io/badge/AI%20Coding%20Skills-Claude%20Code%20and%20Codex-FF4136.svg?logo=openai&logoColor=white)
 # 🎓 Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/c526100b-3ecd-4f3a-b99a-e4e4c9195c23/public_url">
-    <img src="https://github.com/user-attachments/assets/3bf18658-4b36-45e8-a3a5-f30db8b037e4" width="200"/>
-  </a>
-
-  <p align="">
-  <a href="https://www.credly.com/badges/0bc989f4-0509-4360-8390-b680a54e7b4c">
-    <img src="ttps://github.com/user-attachments/assets/b7b63214-48f9-4cd1-8e38-b3e287ce4e42" width="200"/>
-  </a>
-
-  <a href="https://www.skills.google/public_profiles/a321584f-2835-4666-b896-15831a011038/badges/23595842">
-    <img src="https://github.com/user-attachments/assets/b2061376-80b3-4de1-8c54-491619a95e22" width="220"/>
-  </a>
-
-  <a href="https://verify.skilljar.com/c/3dp2v9gzkduk">
-    <img src="https://github.com/user-attachments/assets/ab61a8ef-aff1-4f83-87d6-4444f152e5f5" width="270"/>
-  </a>
-
-  <img src="https://github.com/user-attachments/assets/8d435f5a-faf9-4fce-90bc-6c772c16b466" width="550"/>
-  </a>
-</p>
+| AI | Other |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/c526100b-3ecd-4f3a-b99a-e4e4c9195c23/public_url"><img src="https://github.com/user-attachments/assets/3bf18658-4b36-45e8-a3a5-f30db8b037e4" width="200"/></a> | <a href="https://www.credly.com/badges/0bc989f4-0509-4360-8390-b680a54e7b4c"><img src="https://github.com/user-attachments/assets/78bf5da3-42a6-4edd-92c6-f4227b92d276" width="200"/></a> |
+| <a href="https://www.skills.google/public_profiles/a321584f-2835-4666-b896-15831a011038/badges/23595842"><img src="https://github.com/user-attachments/assets/b2061376-80b3-4de1-8c54-491619a95e22" width="220"/></a> | <img src="https://github.com/user-attachments/assets/8d435f5a-faf9-4fce-90bc-6c772c16b466" width="550"/> |
+| <a href="https://verify.skilljar.com/c/3dp2v9gzkduk"><img src="https://github.com/user-attachments/assets/ab61a8ef-aff1-4f83-87d6-4444f152e5f5" width="270"/></a> | |
 
 # 📊 GitHub Stats:
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorydima&theme=tokyo-night)
