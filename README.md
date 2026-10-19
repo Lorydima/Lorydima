@@ -35,8 +35,6 @@
 # 📊 GitHub Stats
 ![GitHub Stats Fast](https://github-readme-stats-fast.vercel.app/api?username=Lorydima&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lorydima&theme=dark)
-[![Lorydima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night)](https://github.com/Lorydima/github-readme-activity-graph)
-
 #
 
 👇 **Check out my featured projects below!** 👇
